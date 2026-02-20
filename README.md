@@ -1,2 +1,12 @@
-#About me
-I am passionate about AI security, with a focus on adversarial risk and threat modeling, as I develop my expertise in how AI and Cybersecurity interact.
+# Hi, I am Katherine
+Engineer exploring security,systems, and AI
+
+## Focus
+- Cybersecurity Fundamentals
+- Git/Github workflows
+- Small practical projects
+
+  ## Interests
+  - Threat Modeling
+  - Security research and tooling
+  - AI + Cybersecurity intersactions
